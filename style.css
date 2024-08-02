@@ -41,6 +41,12 @@ form{
     border-radius: 5px;
     margin-left: 10px;
 }
+#navsrch{
+    width: 100%;
+    position: sticky;
+    top: 0;
+    z-index: 99;
+}
 .search-reults{
     display: flex;
     justify-content: space-between;
